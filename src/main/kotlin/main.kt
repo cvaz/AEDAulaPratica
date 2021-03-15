@@ -1,7 +1,7 @@
 
 
 fun binarySearch(array: IntArray, l: Int, r: Int, element: Int): Int {
-    println("Init search")
+
     var l = l
     var r = r
     var mid: Int
